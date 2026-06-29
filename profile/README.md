@@ -4,7 +4,7 @@
 
 **The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors.**
 
-What OpenTelemetry is to observability, OpenGuardrails is to agent safety & security.
+Integrate safety & security once, enforce it across every agent, sandbox, and LLM — instead of wiring every vendor to every tool by hand.
 
 </div>
 
