@@ -20,7 +20,7 @@ contract — and the leaderboard that measures those vendors on a level field.
 
 ```
    agents  ─┐                                   ┌─ detectors (config OR model)
-  sandboxes ├──▶  OGR contract + composition  ◀─┤   ranked by openguardrails-bench
+  sandboxes ├──▶  OGR contract + composition  ◀─┤  ranked by openguardrails-bench
   LLM proto ┘                                   └─ your own rules
 ```
 
