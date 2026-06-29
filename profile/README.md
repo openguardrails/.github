@@ -19,7 +19,7 @@ contract — and the leaderboard that measures those vendors on a level field.
 - We do **not** build detection capability — vendors compete behind the contract.
 
 ```
-   agents ─┐                                   ┌─ detectors (config OR model)
+   agents  ─┐                                   ┌─ detectors (config OR model)
   sandboxes ├──▶  OGR contract + composition  ◀─┤   ranked by openguardrails-bench
   LLM proto ┘                                   └─ your own rules
 ```
