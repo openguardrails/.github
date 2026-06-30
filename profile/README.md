@@ -28,7 +28,7 @@ contract — and the leaderboard that measures those vendors on a level field.
 
 | Repo | What it is |
 |---|---|
-| [**openguardrails-spec**](https://github.com/openguardrails/openguardrails-spec) | The normative spec: `GuardEvent`, `Verdict`, provenance, guard-context, composition, taxonomy. |
+| [**openguardrails**](https://github.com/openguardrails/openguardrails) | The normative spec: `GuardEvent`, `Verdict`, provenance, guard-context, composition, taxonomy — plus conformance & governance. |
 | [**openguardrails-examples**](https://github.com/openguardrails/openguardrails-examples) | Runnable proof + the index of every integration. `pip install openguardrails && python3 demo.py`. |
 | [**openguardrails-bench**](https://github.com/openguardrails/openguardrails-bench) | The neutral detector leaderboard. |
 | [**openguardrails-gateway**](https://github.com/openguardrails/openguardrails-gateway) | Reference service for the **gateway** altitude — terminate OpenAI/Anthropic, enforce on the wire. |
