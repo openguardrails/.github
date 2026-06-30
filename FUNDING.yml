@@ -1,0 +1,4 @@
+# Org-wide default Sponsor button for every openguardrails/* repo that doesn't
+# define its own FUNDING.yml. Lives in the org's .github repo.
+# https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+custom: ["https://openguardrails.com/donate"]
